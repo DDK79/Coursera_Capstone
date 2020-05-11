@@ -1,3 +1,3 @@
 # Coursera_Capstone
 Capstone Project
-https://github.com/DDK79/Coursera_Capstone.git
+https://gist.github.com/7ce896d89822ef42d940277324fb42c3.git
